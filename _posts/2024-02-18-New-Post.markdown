@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "New Post"
+date:   2024-02-18
+categories: update
+---
+Hi guys, 
+
+New website (wah?!) to serve as my portfolio and as something I can put on my resume because I have been lacking in the personal coding projects for the past..... 4 years... unfortunate.
+
+I will hopefully continue to live my webdev dreams and update this website consistently but as it is just my portfolio site, I doubt much will be updated.
+
+Probably a few of my more "professional" updates and such.
+
+That's probably all I have to say.
+
+Thanks for checking my site out, 
+
+Kris

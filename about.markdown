@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+Hi all! 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is **Kris** and I'm currently a junior majoring in Computer Information Systems at <span style="color:red;">Wentworth Institute of Technology</span>!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My expected graduation date is in August 2025!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- 1 blah
+- 2 blah
+- 3 blahs
