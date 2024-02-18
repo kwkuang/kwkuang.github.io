@@ -5,8 +5,9 @@
 layout: home
 last_updated: 2024-02-18
 ---
-## Welcome to my site!
-### Last updated: {{ page.last_updated | date: "%B %-d, %Y" }}
+
+Welcome to my site!
+Last updated: {{ page.last_updated | date: "%B %-d, %Y" }}
 
 Hello! Welcome to my website!
 
@@ -17,5 +18,3 @@ Thanks all!
 Kris
 
 <img src="img/755.png" alt="buddy" width="300" height="200">
-
-<hr>
