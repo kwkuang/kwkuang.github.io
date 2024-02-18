@@ -5,7 +5,7 @@
 layout: home
 last_updated: 2024-02-18
 ---
-# Welcome to my site!
+## Welcome to my site!
 ### Last updated: {{ page.last_updated | date: "%B %-d, %Y" }}
 
 Hello! Welcome to my website!
